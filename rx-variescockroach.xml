@@ -1,0 +1,10 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="broadcast">
+  <intent-filter>
+    <action name="com.taobao.taobao.intent.action.COCKROACH" />
+    <action name="me.ele.intent.action.COCKROACH" />
+    <action name="com.autonavi.minimap.intent.action.COCKROACH" />
+    <action name="com.taobao.idlefish.intent.action.COCKROACH" />
+    <action name="com.smzdm.client.android.intent.action.COCKROACH" />
+    <action name="com.jsmcc.intent.action.COCKROACH" />
+  </intent-filter>
+</prescription>
