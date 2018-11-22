@@ -6,5 +6,6 @@
     <action name="com.taobao.idlefish.intent.action.COCKROACH" />
     <action name="com.smzdm.client.android.intent.action.COCKROACH" />
     <action name="com.jsmcc.intent.action.COCKROACH" />
+    <action name="com.12306.broadcast.checkstate" />
   </intent-filter>
 </prescription>
