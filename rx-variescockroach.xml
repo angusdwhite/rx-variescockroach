@@ -7,5 +7,9 @@
     <action name="com.smzdm.client.android.intent.action.COCKROACH" />
     <action name="com.jsmcc.intent.action.COCKROACH" />
     <action name="com.12306.broadcast.checkstate" />
+    <action name="com.service.flowcountservice.task" />
+    <action name="com.jsmcc/com.baidu.android.pushservice.PushService" />
+    <action name="com.service.flowcountmonitorservice.task" />
+    <action name="com.service.pushservice.task" />
   </intent-filter>
 </prescription>
