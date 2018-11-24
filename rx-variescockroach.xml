@@ -11,5 +11,7 @@
     <action name="com.jsmcc/com.baidu.android.pushservice.PushService" />
     <action name="com.service.flowcountmonitorservice.task" />
     <action name="com.service.pushservice.task" />
+    <action name="com.jsmcc/cn.cmcc.online.smsapi.core.CacheService" />
+    <action name="com.jsmcc/cn.cmcc.online.smsapi.core.DaService" />
   </intent-filter>
 </prescription>
